@@ -1,3 +1,5 @@
+#Dibuat oleh Pak Prayit
+#Polines
 def guess_number():
     secret_number = 10
     guess = 0
