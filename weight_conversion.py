@@ -1,3 +1,5 @@
+#Dibuat oleh Pak Prayit
+#Politeknik Negeri Semarang
 def weight_conversion():
     berat = int(input("Masukkan berat Anda > "))
     satuan = input("Dalam satuan apa berat yang Anda masukkan ? (K untuk KG, L untuk LBS) > ")

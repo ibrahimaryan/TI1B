@@ -1,5 +1,5 @@
 #Dibuat oleh Pak Prayit
-#Polines
+#Politeknik Negeri Semarang
 def guess_number():
     secret_number = 10
     guess = 0
